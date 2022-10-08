@@ -5,20 +5,20 @@
 # Quels sont les logiciels développés, et depuis quand ?
 
 Logiciels à ce jour :
-| Logiciel | Nom de code | Langage / Framework | Date de création | Note |
-|:-:|:-:|:-:|:-:|:-:|
-| **Serenovia Desktop** (v1-v3) | | Java / Spring | fin 2012 | |
-| **Calendovia** (v1-v2) | | Java / Spring | 2013 | |
-| **Wialo** (v1) | | PHP, Java | | |
-| **Serenovia Mobile** (v1) | | Java | 2016 | Perdu en 2019 |
-| **Serenovia API** | | Java / Spring Boot | 2022 | Sera bientôt inclus dans le kernel |
+| Logiciel | Langage / Framework | Date de création | Note |
+|:-:|:-:|:-:|:-:|
+| **Serenovia Desktop** (v1-v3) | Java / Spring | fin 2012 | |
+| **Calendovia** (v1-v2) | Java / Spring | 2013 | |
+| **Wialo** (v1) | PHP, Java | | |
+| **Serenovia Mobile** (v1) | Java | 2016 | Perdu en 2019 |
+| **Serenovia API** | Java / Spring Boot | 2022 | Sera bientôt inclus dans le kernel |
 
 Logiciels en développement :
 | Logiciel | Nom de code | Langage / Framework | Note |
 |:-:|:-:|:-:|:-:|
 | **Template partagé** | Sphere | Angular |
 | **Serenovia Desktop** (v4) | Nurse | Angular |
-| **Calendovia** (v3) | N/A | Angular | 2013 |
+| **Calendovia** (v3) | N/A | Angular |  |
 | **Wialo** (v2) | N/A | Angular |
 | **Serenovia Mobile** (v2) | Dine | Angular |
 | **Kernel partagé** | Cosmos | Java / Spring Boot | Sera sous forme d'API |
