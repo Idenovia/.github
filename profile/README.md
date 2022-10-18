@@ -7,9 +7,9 @@
 Logiciels à ce jour :
 | Logiciel | Langage / Framework | Date de création | Note |
 |:-:|:-:|:-:|:-:|
-| **Serenovia Desktop** (v1-v3) | Java / Spring | fin 2012 | |
-| **Calendovia** (v1-v2) | Java / Spring | 2013 | |
-| **Wialo** (v1) | PHP, Java | | |
+| **Serenovia Desktop** (v1-v3) | Java / Spring | décembre 2012 | |
+| **Calendovia** (v1-v2) | Java / Spring | avril 2015 | |
+| **Wialo** (v1) | PHP, Java | mars 2017 | |
 | **Serenovia Mobile** (v1) | Java | 2016 | Perdu en 2019 |
 | **Serenovia API** | Java / Spring Boot | 2022 | Sera bientôt inclus dans le kernel |
 
