@@ -21,7 +21,7 @@ Logiciels en développement :
 | **Calendovia** (v3) | N/A | Angular |  |
 | **Wialo** (v2) | N/A | Angular |
 | **Serenovia Mobile** (v2) | Dine | Angular |
-| **Kernel partagé** | Cosmos | Java / Spring Boot | Sera sous forme d'API |
+| **Kernel partagé** | Cosmos | Express | Sera sous forme d'API |
 | **Authentificateur unifié** | Orochi | Angular |
 
 # Pourquoi le code n'est-il pas accessible hors de l'organisation ?
