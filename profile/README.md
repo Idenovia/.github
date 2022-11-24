@@ -41,4 +41,4 @@ Une refonte est en cours sur les logiciels, avec pour objectifs:
 - moins de fonctionnalités inutiles,
 - une meilleure intuitivité quelque soit la cible.
 
-Pour cela, un passage de Spring + JSP à Spring Boot pour le noyau + Angular pour les frontends est envisagé.
+Pour cela, un passage de Spring + JSP à Express pour le noyau + Angular pour les frontends est envisagé.
