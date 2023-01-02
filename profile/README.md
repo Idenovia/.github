@@ -16,29 +16,13 @@ Logiciels à ce jour :
 Logiciels en développement :
 | Logiciel | Nom de code | Langage / Framework | Note |
 |:-:|:-:|:-:|:-:|
-| **Template partagé** | Sphere | Angular |
-| **Serenovia Desktop** (v4) | Nurse | Angular |
+| **Serenovia Desktop** (v4) | N/A | Angular |
 | **Calendovia** (v3) | N/A | Angular |  |
 | **Wialo** (v2) | N/A | Angular |
 | **Serenovia Mobile** (v2) | Dine | Angular |
-| **Kernel partagé** | Cosmos | Express | Sera sous forme d'API |
-| **Authentificateur unifié** | Orochi | Angular |
+| **API** | Sphere | Express |
+| **Documentations** | N/A | Docusaurus | Les docs seront en Markdown (avec un peu de React s'il en sera nécessaire) |
 
 # Pourquoi le code n'est-il pas accessible hors de l'organisation ?
 
 Le code d'Idenovia est actuellement en closed-source, ce qui veut dire que le code n'est accessible qu'aux membres de l'organisation. Cela est éventuellement justifié par le fait que les logiciels sont payants de base. Mais cela n'empêchera pas le fait que quelques uns des composants intégrés dans ces services pourront bientôt devenir open-source une fois la refonte totale effectuée.
-
-# Quelle refonte ?
-
-Une refonte est en cours sur les logiciels, avec pour objectifs:
-- l'unification du noyau, 
-- une meilleure clarté du code,
-- de meilleures relations entre les bases,
-- une meilleure sécurité,
-- une harmonie entre les services,
-- des logiciels plus stables et une meilleure prévention en cas de problèmes rencontrés,
-- une veille technologique constante menant à un maintien conséquent des services,
-- moins de fonctionnalités inutiles,
-- une meilleure intuitivité quelque soit la cible.
-
-Pour cela, un passage de Spring + JSP à Express pour le noyau + Angular pour les frontends est envisagé.
