@@ -14,14 +14,14 @@ Logiciels à ce jour :
 | **Serenovia API** | Java / Spring Boot | 2022 | Sera bientôt inclus dans le kernel |
 
 Logiciels en développement :
-| Logiciel | Nom de code | Langage / Framework | Note |
-|:-:|:-:|:-:|:-:|
-| **Serenovia Desktop** (v4) | N/A | Angular |
-| **Calendovia** (v3) | N/A | Angular |  |
-| **Wialo** (v2) | N/A | Angular |
-| **Serenovia Mobile** (v2) | Dine | Angular |
-| **API** | Sphere | Express |
-| **Documentations** | N/A | Docusaurus | Les docs seront en Markdown (avec un peu de React s'il en sera nécessaire) |
+| Logiciel | Langage / Framework | Note |
+|:-:|:-:|:-:|
+| **Serenovia Desktop** (v4) | Svelte |
+| **Calendovia** (v3) | Svelte |  |
+| **Wialo** (v2) | Svelte |
+| **Serenovia Mobile** (v2) | Angular |
+| **API** | Express |
+| **Site & documentations** | Docusaurus | Les docs seront en Markdown (avec un peu de React pour le site en soi) |
 
 # Pourquoi le code n'est-il pas accessible hors de l'organisation ?
 
