@@ -16,12 +16,12 @@ Logiciels à ce jour :
 Logiciels en développement :
 | Logiciel | Langage / Framework | Note |
 |:-:|:-:|:-:|
-| **Serenovia Desktop** (v4) | Svelte |
-| **Calendovia** (v3) | Svelte |  |
-| **Wialo** (v2) | Svelte |
-| **Serenovia Mobile** (v2) | Angular |
-| **API** | Express |
-| **Site & documentations** | Docusaurus | Les docs seront en Markdown (avec un peu de React pour le site en soi) |
+| **Serenovia Desktop** (v4) | JS / Svelte |
+| **Calendovia** (v3) | JS / Svelte |  |
+| **Wialo** (v2) | JS / Svelte |
+| **Serenovia Mobile** (v2) | TS / Angular |
+| **API** | TS / Express |
+| **Site & documentations** | JS + MDX / Docusaurus | Les docs seront en Markdown (avec un peu de React pour le site en soi) |
 
 # Pourquoi le code n'est-il pas accessible hors de l'organisation ?
 
