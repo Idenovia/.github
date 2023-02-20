@@ -1,11 +1,14 @@
 ![idenovia](https://github.com/Idenovia/.github/blob/main/assets/logo_header.png?raw=true)
 
-
-# ![Qui sommes-nous?](https://github.com/Idenovia/.github/blob/main/assets/question.png?raw=true) Qu'est-ce qu'Idenovia ?
+![Qui sommes-nous?](https://github.com/Idenovia/.github/blob/main/assets/question.png?raw=true)
+# Qu'est-ce qu'Idenovia ?
 
 **Idenovia** est une petite société strasbourgeoise développant des services orientés vers le télésecrétariat et la prise de rendez-vous. Fondée en 2011, elle a développé et maintient encore à ce jour les logiciels *Serenovia*, *Wialo* et *Calendovia*. Les deux services principaux, c'est-à-dire Serenovia et Calendovia, ont été sauvegardés en local via le SVN avant leur migration sur GitHub mi-2022 pour des raisons d'accès et de simplicité d'utilisation.
 
-# ![Quels logiciels?](https://github.com/Idenovia/.github/blob/main/assets/code.png?raw=true) Quels sont les logiciels développés, et depuis quand ?
+---
+
+![Quels logiciels?](https://github.com/Idenovia/.github/blob/main/assets/code.png?raw=true)
+# Quels sont les logiciels développés, et depuis quand ?
 
 Logiciels à ce jour :
 | Logiciel | Langage / Framework | Date de création | Note |
@@ -25,6 +28,9 @@ Logiciels en développement :
 | **API** | TS / Express |
 | **Site & documentations** | TS + MDX / Docusaurus | Les docs seront en Markdown (avec un peu de React pour le site en soi) |
 
-# ![Pourquoi en closed source?](https://github.com/Idenovia/.github/blob/main/assets/lock.png?raw=true) Pourquoi le code n'est-il pas accessible hors de l'organisation ?
+---
+
+![Pourquoi en closed source?](https://github.com/Idenovia/.github/blob/main/assets/lock.png?raw=true)
+# Pourquoi le code n'est-il pas accessible hors de l'organisation ?
 
 Le code d'Idenovia est actuellement en closed-source, ce qui veut dire que le code n'est accessible qu'aux membres de l'organisation. Cela est éventuellement justifié par le fait que les logiciels sont payants de base. Mais cela n'empêchera pas le fait que quelques uns des composants intégrés dans ces services pourront bientôt devenir open-source une fois la refonte totale effectuée.
