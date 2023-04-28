@@ -2,7 +2,7 @@
 <a href="https://idenovia.com">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Idenovia/.github/blob/main/assets/logo_header_dark.png?raw=true">
-  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" width=500src="https://github.com/Idenovia/.github/blob/main/assets/logo_header.png?raw=true">
+  <img width=500 src="https://github.com/Idenovia/.github/blob/main/assets/logo_header.png?raw=true">
 </picture>
 </a>
 </div>
