@@ -1,13 +1,15 @@
-<!-- trunk-ignore(markdownlint/MD041) -->
-[![idenovia](https://github.com/Idenovia/.github/blob/main/assets/logo_header.png?raw=true)](https://www.idenovia.com)
+<div align="center">
+
+[![idenovia](https://github.com/Idenovia/.github/blob/main/assets/logo_header.png?raw=true#gh-light-mode-only)](https://www.idenovia.com)
+[![idenovia](https://github.com/Idenovia/.github/blob/main/assets/logo_header_dark.png?raw=true#gh-dark-mode-only)](https://www.idenovia.com)
+
+</div>
 
 ![Qui sommes-nous?](https://github.com/Idenovia/.github/blob/main/assets/question.png?raw=true)
 
 # Qu'est-ce qu'Idenovia ?
 
-**Idenovia** est une petite société strasbourgeoise développant des services orientés vers le télésecrétariat et la prise de rendez-vous. Fondée en 2011, elle a développé et maintient encore à ce jour les logiciels _Serenovia_, _Wialo_ et _Calendovia_, tous trois* en Java... jusqu'à la sortie de leur réécriture totale en TypeScript.
-
-\* enfin, plutôt 2, sachant qu'un des 3 n'est en réalité qu'un plugin d'un autre...
+**Idenovia** est une petite société strasbourgeoise développant des services orientés vers le télésecrétariat et la prise de rendez-vous. Fondée en 2011, elle a développé les logiciels _**Serenovia**_, _**Wialo**_ et _**Calendovia**_.
 
 ---
 
@@ -16,22 +18,23 @@
 # Quels sont les logiciels développés, et depuis quand ?
 
 Logiciels à ce jour :
-| Logiciel                      | Langage / Framework | Date de création | Fin de support | Note                               |
-| :---------------------------- | :------------------ | :--------------- | :------------- | :--------------------------------- |
-| **Serenovia Desktop** (v1-v3) | Java / Spring       | décembre 2012    | horizon 2023   |
-| **Calendovia** (v1-v2)        | Java / Spring       | avril 2015       | fin 2022       |
-| **Wialo** (v1)                | PHP, Java           | mars 2017        | fin 2022       | Plugin basé sur la v2 de Serenovia |
-| **Serenovia Mobile** (v1)     | Java                | 2016             | 2019           | Code source perdu                  |
+
+| Logiciel                            | Langage / Framework | Date de création | Fin de support | Note                                |
+| :---------------------------------- | :------------------ | :---------------- | :------------- | :---------------------------------- |
+| **Serenovia Desktop** (v1-v3) | Java                | décembre 2012    | horizon 2023   |                                     |
+| **Calendovia** (v1-v2)        | Java                | avril 2015        | fin 2022       |                                     |
+| **Wialo** (v1)                | Java                | mars 2017         | fin 2022       | Plugin basé sur la v2 de Serenovia |
+| **Serenovia Mobile** (v1)     | Java                | 2016              | 2019           | Code source perdu                   |
 
 Logiciels en développement :
-| Logiciel                  | Framework TypeScript |
-| :------------------------ | :------------------- |
-| **Serenovia**             | Svelte               |
-| **Calendovia**            | Svelte               |
-| **Wialo** (v2)            | Svelte               |
-| **Serenovia Mobile**      | Angular              |
-| **API**                   | Express              |
-| **Site & documentations** | Docusaurus           |
+
+| Logiciel                        | Langage    |
+| :------------------------------ | :--------- |
+| **Serenovia**             | Svelte     |
+| **Calendovia**            | Svelte     |
+| **Wialo**                 | Svelte     |
+| **API**                   | TypeScript |
+| **Site & documentations** | TypeScript |
 
 ---
 
@@ -39,4 +42,4 @@ Logiciels en développement :
 
 # Pourquoi le code n'est-il pas accessible hors de l'organisation ?
 
-Le code d'Idenovia est actuellement en closed-source, ce qui veut dire que le code n'est accessible qu'aux membres de l'organisation. Cela est éventuellement justifié par le fait que les logiciels sont payants de base, à l'exception de Calendovia, et peuvent contenir des données sensibles exclusives à la société. Mais cela n'empêchera pas le fait que des repos (notamment le site et le frontend de Calendovia, si aucune donnée sensible n'est intégrée) pourront devenir open-source une fois la refonte totale effectuée.
+Le code d'Idenovia est actuellement en closed-source, ce qui veut dire que le code n'est accessible qu'aux membres de l'organisation. Cela est éventuellement justifié par le fait que les logiciels sont payants de base, à l'exception de Calendovia, et peuvent contenir des données sensibles exclusives à la société. Mais cela n'empêchera pas le fait que des repos (notamment le site et le frontend de Calendovia, si aucune donnée sensible n'est intégrée) pourront devenir open-source une fois la refonte totale effectuée. Parce que nous avons changé, et nous voulons nous ouvrir à tous pour que tout soit plus simple.
