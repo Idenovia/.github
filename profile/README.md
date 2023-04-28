@@ -1,8 +1,10 @@
 <div align="center">
-
-[![idenovia](https://github.com/Idenovia/.github/blob/main/assets/logo_header.png?raw=true#gh-light-mode-only)](https://www.idenovia.com)
-[![idenovia](https://github.com/Idenovia/.github/blob/main/assets/logo_header_dark.png?raw=true#gh-dark-mode-only)](https://www.idenovia.com)
-
+<a href="https://idenovia.com">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Idenovia/.github/blob/main/assets/logo_header_dark.png?raw=true">
+  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" width=500src="https://github.com/Idenovia/.github/blob/main/assets/logo_header.png?raw=true">
+</picture>
+</a>
 </div>
 
 ![Qui sommes-nous?](https://github.com/Idenovia/.github/blob/main/assets/question.png?raw=true)
@@ -19,17 +21,17 @@
 
 Logiciels à ce jour :
 
-| Logiciel                            | Langage / Framework | Date de création | Fin de support | Note                                |
-| :---------------------------------- | :------------------ | :---------------- | :------------- | :---------------------------------- |
-| **Serenovia Desktop** (v1-v3) | Java                | décembre 2012    | horizon 2023   |                                     |
-| **Calendovia** (v1-v2)        | Java                | avril 2015        | fin 2022       |                                     |
-| **Wialo** (v1)                | Java                | mars 2017         | fin 2022       | Plugin basé sur la v2 de Serenovia |
-| **Serenovia Mobile** (v1)     | Java                | 2016              | 2019           | Code source perdu                   |
+| Logiciel                      | Langage / Framework | Date de création | Fin de support | Note                               |
+| :---------------------------- | :------------------ | :--------------- | :------------- | :--------------------------------- |
+| **Serenovia Desktop** (v1-v3) | Java                | décembre 2012    | horizon 2023   |                                    |
+| **Calendovia** (v1-v2)        | Java                | avril 2015       | fin 2022       |                                    |
+| **Wialo** (v1)                | Java                | mars 2017        | fin 2022       | Plugin basé sur la v2 de Serenovia |
+| **Serenovia Mobile** (v1)     | Java                | 2016             | 2019           | Code source perdu                  |
 
 Logiciels en développement :
 
-| Logiciel                        | Langage    |
-| :------------------------------ | :--------- |
+| Logiciel                  | Langage    |
+| :------------------------ | :--------- |
 | **Serenovia**             | Svelte     |
 | **Calendovia**            | Svelte     |
 | **Wialo**                 | Svelte     |
