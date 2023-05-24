@@ -23,20 +23,18 @@ Logiciels à ce jour :
 
 | Logiciel                      | Langage / Framework | Date de création | Fin de support | Note                               |
 | :---------------------------- | :------------------ | :--------------- | :------------- | :--------------------------------- |
-| **Serenovia Desktop** (v1-v3) | Java                | décembre 2012    | horizon 2023   |                                    |
-| **Calendovia** (v1-v2)        | Java                | avril 2015       | fin 2022       |                                    |
+| **Serenovia Desktop** | Java                | décembre 2012    | horizon 2023   |                                    |
+| **Calendovia**        | Java                | avril 2015       | fin 2022       |                                    |
 | **Wialo** (v1)                | Java                | mars 2017        | fin 2022       | Plugin basé sur la v2 de Serenovia |
-| **Serenovia Mobile** (v1)     | Java                | 2016             | 2019           | Code source perdu                  |
+| **Serenovia Mobile**     | Java                | 2016             | 2019           | Code source perdu                  |
 
 Logiciels en développement :
 
-| Logiciel                  | Langage    |
+| Logiciel                  | Framework    |
 | :------------------------ | :--------- |
-| **Serenovia**             | Svelte     |
-| **Calendovia**            | Svelte     |
-| **Wialo**                 | Svelte     |
-| **API**                   | TypeScript |
-| **Site & documentations** | TypeScript |
+| **Wialo & authentificateur** | Svelte |
+| **API** | Express |
+| **Site & documentations** | Docusaurus |
 
 ---
 
