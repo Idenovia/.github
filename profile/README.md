@@ -21,20 +21,20 @@
 
 Logiciels à ce jour :
 
-| Logiciel                      | Langage / Framework | Date de création | Fin de support | Note                               |
-| :---------------------------- | :------------------ | :--------------- | :------------- | :--------------------------------- |
-| **Serenovia Desktop** | Java                | décembre 2012    | horizon 2023   |                                    |
-| **Calendovia**        | Java                | avril 2015       | fin 2022       |                                    |
-| **Wialo** (v1)                | Java                | mars 2017        | fin 2022       | Plugin basé sur la v2 de Serenovia |
-| **Serenovia Mobile**     | Java                | 2016             | 2019           | Code source perdu                  |
+| Logiciel              | Langage / Framework | Date de création | Fin de support | Note                               |
+| :-------------------- | :------------------ | :--------------- | :------------- | :--------------------------------- |
+| **Serenovia Desktop** | Java                | décembre 2012    | septembre 2023 |                                    |
+| **Calendovia**        | Java                | avril 2015       | septembre 2023 |                                    |
+| **Wialo** (v1)        | Java                | mars 2017        |                | Plugin basé sur la v2 de Serenovia |
+| **Serenovia Mobile**  | Java                | 2016             | 2019           | Code source perdu                  |
 
 Logiciels en développement :
 
-| Logiciel                  | Framework    |
-| :------------------------ | :--------- |
-| **Wialo & authentificateur** | Svelte |
-| **API** | Express |
-| **Site & documentations** | Docusaurus |
+| Logiciel                                                     | Framework  |
+| :----------------------------------------------------------- | :--------- |
+| **Wialo**, **plateforme de feedback** & **authentificateur** | Svelte     |
+| **API**                                                      | Express    |
+| **Site & documentations**                                    | Docusaurus |
 
 ---
 
